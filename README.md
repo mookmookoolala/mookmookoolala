@@ -1,9 +1,17 @@
 ### Hi there 👋
 
+I am currently a devops engineer and also a student that is pursuing Master of science in Information Systems in Nanyang Technological University. 
+
+All my projects are self taught and out of my own hobby!
+
+
+
 <!--
 **mookmookoolala/mookmookoolala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
