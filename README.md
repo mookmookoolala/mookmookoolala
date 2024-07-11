@@ -2,7 +2,7 @@
 
 I am currently a devops engineer and also a student that is pursuing Master of science in Information Systems in Nanyang Technological University. 
 
-All my projects are self taught and out of my own hobby!
+Self taught and always learning!
 
 
 
