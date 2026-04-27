@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am currently a devops engineer and also a student that is pursuing Master of science in Information Systems in Nanyang Technological University. 
-
-Self taught and always learning!
+Trading infra guy exploring development.
 
 
 
